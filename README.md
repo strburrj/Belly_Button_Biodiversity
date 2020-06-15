@@ -1,4 +1,4 @@
-# Plot.ly - Belly Button Biodiversity
+# Plot.ly - Belly Button Biodiversity Project
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
