@@ -1,4 +1,4 @@
-//Code Start!
+//Code Start
 
 function init() {
     // Grab a reference to the dropdown select element
